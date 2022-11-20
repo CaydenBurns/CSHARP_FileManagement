@@ -1,0 +1,15 @@
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\bin\Debug\net6.0\DataProcessor.exe
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\bin\Debug\net6.0\DataProcessor.deps.json
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\bin\Debug\net6.0\DataProcessor.runtimeconfig.json
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\bin\Debug\net6.0\DataProcessor.dll
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\bin\Debug\net6.0\DataProcessor.pdb
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\obj\Debug\net6.0\DataProcessor.csproj.AssemblyReference.cache
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\obj\Debug\net6.0\DataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\obj\Debug\net6.0\DataProcessor.AssemblyInfoInputs.cache
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\obj\Debug\net6.0\DataProcessor.AssemblyInfo.cs
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\obj\Debug\net6.0\DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\obj\Debug\net6.0\DataProcessor.dll
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\obj\Debug\net6.0\refint\DataProcessor.dll
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\obj\Debug\net6.0\DataProcessor.pdb
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\obj\Debug\net6.0\DataProcessor.genruntimeconfig.cache
+C:\Users\cayde\source\repos\ConsoleApp1\DataProcessor\obj\Debug\net6.0\ref\DataProcessor.dll
